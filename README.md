@@ -7,3 +7,7 @@ Po spustení v Matlabe sa načrtne jednoduchý model hasičského auta s plošin
 
 ![Vizualizácia pracovného priestoru](pracovnyPriestor.png)
 
+Tu je samotné zadanie: 📄 [Zobraziť zadanie](RobZad1.pdf)
+
+A tu je moja dokumentácia: [Zobraziť dokumentáciu](zad1_dokumentacia.pdf)
+
