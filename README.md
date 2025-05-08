@@ -3,7 +3,7 @@ Toto je moje vypracovanie prvého zadania z predmetu Robotika (druhý ročník, 
 
 Dôležitý [skript](PracovnyPriestorVysuvnejPlosiny.m), menej dôležitý [skript](vypocetT08preVysuvnuPlosinu.m).
 
-Tu je samotné [zadanie](RobZad1.pdf) a tu moja [dokumentácia](zad1_dokumentacia.pdf)
+Tu je samotné [zadanie](RobZad1.pdf) a tu moja [dokumentácia](zad1_dokumentacia.pdf).
 
 Po spustení v Matlabe sa načrtne jednoduchý model hasičského auta s plošinou, a vizualizácia pracovného priestoru v dvoch rezoch:
 
